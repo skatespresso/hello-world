@@ -1,2 +1,4 @@
 # hello-world
-MVP kurs HT2025
+Hej!
+Jag heter Elin!
+
